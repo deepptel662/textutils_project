@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepptel662/textutils_project/static/css/main.f855e6bc.css",
+    "main.js": "/deepptel662/textutils_project/static/js/main.863cce58.js",
+    "static/js/453.02b6ed6f.chunk.js": "/deepptel662/textutils_project/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/deepptel662/textutils_project/index.html",
+    "main.f855e6bc.css.map": "/deepptel662/textutils_project/static/css/main.f855e6bc.css.map",
+    "main.863cce58.js.map": "/deepptel662/textutils_project/static/js/main.863cce58.js.map",
+    "453.02b6ed6f.chunk.js.map": "/deepptel662/textutils_project/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.863cce58.js"
+  ]
+}
